@@ -1,5 +1,5 @@
 {
-  "name": "ipinfo-cli",
+  "name": "ipinfo-client",
   "version": "1.0.0",
   "description": "Small CLI for ipinfo.io",
   "main": "lib/index.js",
