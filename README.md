@@ -7,8 +7,8 @@ This is a small CLI to get IP info from your terminal. This NPM package is not r
 
 ## Running
 
-You can install this globally by running `npm install -g ipinfo-cli` or
-You can run this using npx: `npx ipinfo-cli`
+- You can install this globally by running `npm install -g ipinfo-client` or
+- You can run this using npx: `npx ipinfo-client`
 
 ### API limits
 
@@ -17,3 +17,7 @@ There are a few limits if you are using their product without paying or at least
 ## Options
 
 `--format`: `json` (default), `table`, `city`, `location`
+
+## Authentication
+
+The CLI will use the environment variable `IPINFO_API_TOKEN` to authenticate its requests. This is optional.
