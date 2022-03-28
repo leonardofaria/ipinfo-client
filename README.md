@@ -1,6 +1,6 @@
-# IPinfo (unofficial) CLI
+# IPinfo (unofficial) Client
 
-[![Buy me a coffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/leonardofaria)
+![npm](https://img.shields.io/npm/v/ipinfo-client) ![NPM](https://img.shields.io/npm/l/ipinfo-client) [![Buy me a coffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/leonardofaria) [![Twitter Follow](https://img.shields.io/twitter/follow/leozera?label=Follow%20on%20Twitter)](https://twitter.com/leozera/)
 
 
 This is a small CLI to get IP info from your terminal. This NPM package is not related to the IPinfo company.
